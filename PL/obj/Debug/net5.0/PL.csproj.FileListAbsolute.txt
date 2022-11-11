@@ -1,0 +1,17 @@
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.AssemblyInfo.cs
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\PL.deps.json
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\PL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\ref\PL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\PL.pdb
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\BLL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\DAL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.csproj.CopyComplete
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\ref\PL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\PL\obj\Debug\net5.0\PL.pdb

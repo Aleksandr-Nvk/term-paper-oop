@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Alex\Documents\Projects\CSharp\Wallet\DAL\obj\Debug\net5.0\DAL.pdb
